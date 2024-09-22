@@ -1,2 +1,3 @@
 # deep-learning-challenge
 Module 21 Challenge
+The purpose of this Neural Network assignment was to read in a csv containing information on successful funding projects from a company called Alphabet Soup. The goal of the network was to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. The csv was placed into a dataframe, cleaned, and organized to create a neural network. A variety of models and methods were used within the models to be able to present the top prediction out of all 4 required models and among the many others tried in the process.
